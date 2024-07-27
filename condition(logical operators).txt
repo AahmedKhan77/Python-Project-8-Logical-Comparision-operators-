@@ -1,0 +1,12 @@
+1.Use of AND Operator
+if applicant has income AND good credit
+then they are eligible for loan
+
+2. Use of OR Operator
+if applicant has income OR good credit
+then they are eligible for loan
+
+
+3. Use of NOT Operator
+if applicant has income AND doesn't have criminal records
+then they are eligible for loan
